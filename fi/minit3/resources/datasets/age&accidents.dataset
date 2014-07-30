@@ -1,0 +1,93 @@
+#
+# age&accidents 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| age in years | accidents
+data_range	| 0..100  | 0..200
+#---------------|---------|-----------
+data	|	16	|	168
+data	|	17	|	181
+data	|	18	|	190
+data	|	19	|	195
+data	|	20	|	145
+data	|	21	|	126
+data	|	22	|	114
+data	|	23	|	120
+data	|	24	|	117
+data	|	25	|	92
+data	|	26	|	80
+data	|	27	|	69
+data	|	28	|	70
+data	|	29	|	75
+data	|	30	|	56
+data	|	31	|	61
+data	|	32	|	70
+data	|	33	|	64
+data	|	34	|	59
+data	|	35	|	60
+data	|	36	|	60
+data	|	37	|	54
+data	|	38	|	64
+data	|	39	|	58
+data	|	40	|	52
+data	|	41	|	50
+data	|	42	|	47
+data	|	43	|	40
+data	|	44	|	58
+data	|	45	|	50
+data	|	46	|	40
+data	|	47	|	43
+data	|	48	|	51
+data	|	49	|	49
+data	|	50	|	48
+data	|	51	|	42
+data	|	52	|	40
+data	|	53	|	38
+data	|	54	|	51
+data	|	55	|	48
+data	|	56	|	35
+data	|	57	|	39
+data	|	58	|	35
+data	|	59	|	36
+data	|	60	|	50
+data	|	61	|	43
+data	|	62	|	45
+data	|	63	|	42
+data	|	64	|	37
+data	|	65	|	40
+data	|	66	|	39
+data	|	67	|	47
+data	|	68	|	45
+data	|	69	|	40
+data	|	70	|	49
+data	|	71	|	50
+data	|	72	|	48
+data	|	73	|	50
+data	|	74	|	50
+data	|	75	|	46
+data	|	76	|	56
+data	|	77	|	58
+data	|	78	|	55
+data	|	79	|	60
+data	|	80	|	59
+data	|	81	|	62
+data	|	82	|	68
+data	|	83	|	60
+data	|	84	|	62
+data	|	85	|	56
+data	|	86	|	66
+data	|	87	|	60
+data	|	88	|	65
+data	|	89	|	70
+data	|	90	|	75
+
+

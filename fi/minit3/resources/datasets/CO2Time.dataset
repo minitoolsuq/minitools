@@ -1,0 +1,17 @@
+#
+# CO2Time 
+#
+
+pictureType     = verticalvariable
+
+ImageName   	= bar.gif
+
+xaxisVariable	= Time
+yaxisVariable	= CO2
+
+data_contents	| Time | CO2
+data_units		| years     	| ppm 
+data_range		| 1957..1979  | 300..340	 
+#---------------|-----------|------------data			| 1958	| 310data			| 1958.25	| 317data			| 1958.5	| 318data			| 1958.75	| 321data			| 1962	| 317data			| 1962.25	| 312data			| 1962.5	| 321data			| 1962.75	| 324data			| 1966	| 322data			| 1966.25	| 317data			| 1966.50	| 325data			| 1966.75	| 319data			| 1970	| 320data			| 1970.25	| 324data			| 1970.50	| 329data			| 1970.75	| 322data			| 1974	| 334data			| 1974.25	| 329data			| 1974.5	| 322data			| 1974.75	| 332data			| 1978	| 329data			| 1978.25	| 336data			| 1978.5	| 332data			| 1978.75	| 331
+
+

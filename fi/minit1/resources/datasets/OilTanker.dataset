@@ -1,0 +1,41 @@
+#
+#  OilTanker
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Allways_ready 
+yaxisVariable	= Tough_cell
+
+data_contents	| Allways_ready 	  | Tough_cell
+data_units		| minutes 	  | minutes
+data_range		| 0..50      | 0..50
+#---------------|-----------|-----------|-------------
+data		|	32	|	34.5
+data		|	32.4	|	34.6
+data		|	35.2 |	34.8
+data		|	35.6	|	34.8
+data		|	35.6	|	35.2
+data		|	36.1	|	35.5
+data		|	36.1	|	35.5
+data		|	37.6	|	35.5
+data		|	38.4	|	36.1
+data		|	40	|	36.3
+data		|	46	|	36.4
+data		|	46	|	36.4
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+#
+#  lightbulb
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Value_Bright 
+yaxisVariable	= Clear_Light
+
+data_contents	| Value_Bright 	  | Clear_Light
+data_units		| hours 	  | hours
+data_range		| 500..1600      | 500..1600
+#---------------|-----------|-----------|-------------
+data		|	1400	|	1065
+data		|	1250	|	1050
+data		|	1140	|	1085
+data		|	1100	|	1200
+data		|	1080	|	1090
+data		|	1070	|	1080
+data		|	1020	|	1030
+data		|	980	|	1000
+data		|	870	|	900
+data		|	840	|	1070
+
+
+
+

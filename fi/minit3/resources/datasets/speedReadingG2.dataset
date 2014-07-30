@@ -1,0 +1,174 @@
+#
+# speed reading G2 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| m | m
+data_range	| 0..800  | 0..800
+#---------------|---------|-----------
+data	|	168	|	598
+data	|	132	|	456
+data	|	101	|	319
+data	|	187	|	198
+data	|	154	|	256
+data	|	145	|	203
+data	|	136	|	156
+data	|	127	|	103
+data	|	113	|	180
+data	|	109	|	176
+data	|	145	|	156
+data	|	130	|	198
+data	|	118	|	209
+data	|	178	|	165
+data	|	190	|	134
+data	|	128	|	578
+data	|	122	|	446
+data	|	120	|	409
+data	|	177	|	148
+data	|	124	|	246
+data	|	135	|	250
+data	|	186	|	127
+data	|	127	|	103
+data	|	143	|	167
+data	|	109	|	97
+data	|	141	|	185
+data	|	234	|	220
+data	|	205	|	367
+data	|	287	|	576
+data	|	290	|	276
+data	|	245	|	189
+data	|	256	|	309
+data	|	290	|	287
+data	|	267	|	208
+data	|	231	|	304
+data	|	200	|	320
+data	|	219	|	256
+data	|	214	|	200
+data	|	214	|	347
+data	|	297	|	564
+data	|	280	|	246
+data	|	235	|	179
+data	|	226	|	319
+data	|	280	|	263
+data	|	277	|	202
+data	|	280	|	546
+data	|	205	|	190
+data	|	236	|	309
+data	|	217	|	267
+data	|	230	|	253
+data	|	216	|	150
+data	|	290	|	167
+data	|	353	|	657
+data	|	312	|	546
+data	|	309	|	406
+data	|	318	|	312
+data	|	387	|	435
+data	|	400	|	413
+data	|	345	|	415
+data	|	365	|	390
+data	|	319	|	300
+data	|	390	|	276
+data	|	385	|	345
+data	|	328	|	413
+data	|	309	|	436
+data	|	325	|	398
+data	|	376	|	380
+data	|	323	|	635
+data	|	302	|	526
+data	|	309	|	400
+data	|	328	|	310
+data	|	327	|	425
+data	|	400	|	339
+data	|	365	|	425
+data	|	385	|	390
+data	|	327	|	303
+data	|	389	|	296
+data	|	351	|	421
+data	|	436	|	400
+data	|	430	|	223
+data	|	489	|	698
+data	|	400	|	500
+data	|	402	|	546
+data	|	456	|	545
+data	|	498	|	520
+data	|	415	|	320
+data	|	460	|	340
+data	|	425	|	475
+data	|	430	|	514
+data	|	435	|	546
+data	|	425	|	539
+data	|	413	|	503
+data	|	405	|	280
+data	|	416	|	400
+data	|	420	|	290
+data	|	479	|	698
+data	|	412	|	504
+data	|	423	|	536
+data	|	480	|	575
+data	|	489	|	530
+data	|	455	|	180
+data	|	473	|	195
+data	|	435	|	495
+data	|	457	|	473
+data	|	516	|	609
+data	|	536	|	680
+data	|	540	|	323
+data	|	589	|	312
+data	|	567	|	657
+data	|	539	|	590
+data	|	568	|	623
+data	|	514	|	635
+data	|	538	|	678
+data	|	524	|	690
+data	|	523	|	400
+data	|	567	|	589
+data	|	500	|	690
+data	|	520	|	659
+data	|	578	|	400
+data	|	536	|	619
+data	|	505	|	670
+data	|	520	|	354
+data	|	529	|	419
+data	|	587	|	637
+data	|	529	|	540
+data	|	548	|	613
+data	|	514	|	615
+data	|	538	|	413
+data	|	504	|	390
+data	|	553	|	643
+data	|	698	|	400
+data	|	607	|	556
+data	|	609	|	709
+data	|	690	|	723
+data	|	675	|	657
+data	|	625	|	760
+data	|	624	|	740
+data	|	615	|	650
+data	|	600	|	790
+data	|	660	|	600
+data	|	690	|	530
+data	|	617	|	700
+data	|	634	|	725
+data	|	658	|	750
+data	|	628	|	758
+data	|	608	|	410
+data	|	600	|	506
+data	|	609	|	709
+data	|	690	|	753
+data	|	685	|	627
+data	|	615	|	740
+data	|	624	|	730
+data	|	645	|	650
+data	|	600	|	498
+data	|	625	|	596
+data	|	642	|	721
+
+

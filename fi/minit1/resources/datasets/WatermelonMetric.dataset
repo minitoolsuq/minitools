@@ -1,0 +1,40 @@
+#
+#  watermelon
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Tropical_Days_Inc
+yaxisVariable	= Fresh_Fruits_Inc
+
+data_contents	| Tropical_Days_Inc 	  | Fresh_Fruits_Inc
+data_units		| kg     	  | kg
+data_range		| 0..9          | 0..9
+#---------------|-----------|-----------|-------------
+data		|	6.8	|	4.6
+data		|	4.9	|	4.8
+data		|	8.2	|	5.5
+data		|	7.0	|	4.7
+data		|	5.5	|	4.3
+data		|	7.4	|	3.9
+data		|	7.5	|	4.7
+data		|	5.8	|	4.3
+data		|	2.9	|	5.2
+data		|	3.9	|	4.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+

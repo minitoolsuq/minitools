@@ -1,0 +1,42 @@
+#
+#  hoofdomtrek [bijgewerkt 22-9]
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= meisjes 
+yaxisVariable	= jongens
+data_contents	| meisjes 	  | jongens
+data_units		| cm 	  | cm
+data_range		| 45..60      | 45..60
+#---------------|-----------|-----------|-------------
+data		|	52.8|	56
+data		|	51|	54
+data		|	53|	56
+data		|	51|	54
+data		|	53|	55
+data		|	50|	54
+data		|	53|	55
+data		|	53|	56
+data		|	52.5|	52
+data		|	54|	52
+data		|	54|	-1
+data		|	56|	-1
+data		|	55|	-1
+data		|	51|	-1
+data		|	55.5|	-1
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+#
+# Name 
+#
+
+pictureType     = full
+
+xaxisVariable	= Name
+yaxisVariable	= Name
+
+data_contents	| Name	  | Name
+data_range	| 0..20  | 0..20
+#---------------|---------|-----------
+data	|	1850	|	-1
+data	|	3116	|	-1
+data	|	3002	|	-1
+data	|	1560	|	-1
+data	|	1994	|	-1
+data	|	1994	|	-1
+data	|	1996	|	-1
+data	|	3118	|	-1
+data	|	2990	|	-1
+data	|	2993	|	-1
+data	|	3005	|	-1
+data	|	3130	|	-1
+data	|	3128	|	-1
+data	|	3132	|	-1
+data	|	3116	|	-1
+data	|	2002	|	-1
+data	|	3122	|	-1
+data	|	3002	|	-1
+data	|	3001	|	-1
+data	|	3134	|	-1
+data	|	1996	|	-1
+data	|	3122	|	-1
+data	|	3009	|	-1
+data	|	2000	|	-1
+data	|	3115	|	-1
+data	|	3004	|	-1
+data	|	2009	|	-1
+data	|	3127	|	-1
+data	|	2005	|	-1
+
+

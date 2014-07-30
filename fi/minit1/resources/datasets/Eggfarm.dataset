@@ -1,0 +1,44 @@
+#
+#  Eggfarm
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Traditional_Diet 
+yaxisVariable	= Experimental_Diet
+
+data_contents	| Traditional_Diet 	  | Experimental_Diet
+data_units		| number of eggs 	  | number of eggs
+data_range		| 30..90      | 30..90
+#---------------|-----------|-----------|-------------
+data		|	65	|	51
+data		|	38	|	67
+data		|	69	|	55
+data		|	76	|	52
+data		|	49	|	57
+data		|	57	|	52
+data		|	84	|	50
+data		|	76	|	50
+data		|	78	|	68
+data		|	80	|	53
+data		|	73	|	63
+data		|	55	|	69
+data		|	42	|	51
+data		|	68	|	60
+
+
+
+
+
+
+
+
+
+
+
+
+
+

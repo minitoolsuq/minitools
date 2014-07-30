@@ -1,0 +1,40 @@
+#
+#  Braking
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Toyota 
+yaxisVariable	= Oldsmobile
+
+data_contents	| Toyota 	  | Oldsmobile
+data_units		| minutes 	  | minutes
+data_range		| 0..85      | 0..85
+#---------------|-----------|-----------|-------------
+
+data		|	65	|	70	
+data		|	63	|	53	
+data		|	68	|	61	
+data		|	67	|	64	
+data		|	65	|	76	
+data		|	58	|	55	
+data		|	67	|	80	
+data		|	57	|	54	
+data		|	66	|	60	
+data		|	68	|	52	
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+#
+# DUI age 
+#
+
+pictureType     = verticalvariable
+
+ImageName   	= tree.gif
+
+xaxisVariable	= Age
+yaxisVariable	= Arrestees
+
+data_contents	| Age | Arrestees
+data_units		| years     	|  Per Thousand
+data_range		| 0..70 | 0..20
+#---------------|-----------|------------
+data	|	16	|	3.20
+data	|	17	|	5.30
+data	|	18	|	10.60
+data	|	19	|	12.50
+data	|	20	|	13.20
+data	|	21	|	18.00
+data	|	22	|	17.30
+data	|	23	|	16.90
+data	|	24	|	16.30
+data	|	25	|	14.93
+data	|	26	|	14.48
+data	|	27	|	14.00
+data	|	28	|	12.66
+data	|	29	|	13.84
+data	|	30	|	13.59
+data	|	31	|	13.53
+data	|	32	|	13.34
+data	|	33	|	11.97
+data	|	34	|	11.27
+data	|	35	|	13.11
+data	|	36	|	11.44
+data	|	37	|	10.77
+data	|	38	|	10.22
+data	|	39	|	10.33
+data	|	40	|	9.32
+data	|	41	|	9.27
+data	|	42	|	8.74
+data	|	43	|	8.27
+data	|	44	|	6.40
+data	|	45	|	7.46
+data	|	46	|	7.09
+data	|	47	|	6.98
+data	|	48	|	6.27
+data	|	49	|	6.89
+data	|	50	|	5.03
+data	|	51	|	4.12
+data	|	52	|	3.62
+data	|	53	|	2.90
+data	|	54	|	2.72
+data	|	55	|	2.60
+data	|	56	|	2.56
+data	|	57	|	2.60
+data	|	58	|	2.31
+data	|	59	|	2.17
+data	|	60	|	2.14
+data	|	61	|	2.07
+data	|	62	|	2.00
+data	|	63	|	1.87
+data	|	64	|	1.74
+data	|	65	|	1.70
+data	|	66	|	1.34
+data	|	67	|	1.47
+data	|	68	|	1.39
+data	|	69	|	1.39
+data	|	70	|	0.95
+

@@ -1,0 +1,74 @@
+#
+# HelmetTemp 
+#
+
+pictureType     = full
+
+xaxisVariable	= without lining
+yaxisVariable	= with lining
+
+data_contents	| without lining	  | with lining
+data_range	| 60..200  | 60..200
+#---------------|---------|-----------
+data	|	100	|	118
+data	|	148	|	130
+data	|	125.2	|	107.2
+data	|	149.3	|	131.3
+data	|	106.9	|	88.9
+data	|	139	|	121
+data	|	137.4	|	119.4
+data	|	144.5	|	126.5
+data	|	137.8	|	111.7
+data	|	121.7	|	103.7
+data	|	142.3	|	112
+data	|	161.4	|	143.4
+data	|	114.4	|	96.4
+data	|	124.7	|	106.7
+data	|	147.2	|	129.2
+data	|	158.1	|	140.1
+data	|	194.3	|	176.3
+data	|	159.1	|	141.1
+data	|	145.8	|	117.8
+data	|	140.4	|	122.4
+data	|	146	|	128
+data	|	121.1	|	103.1
+data	|	151.4	|	133.4
+data	|	152.3	|	134.3
+data	|	189.1	|	171.1
+data	|	126.9	|	108.9
+data	|	144.6	|	116.6
+data	|	151.7	|	133.7
+data	|	154.1	|	136.1
+data	|	114.4	|	96.4
+data	|	84.2	|	133.2
+data	|	157.5	|	139.5
+data	|	94.6	|	76.6
+data	|	144.2	|	126.2
+data	|	120.8	|	102.8
+data	|	141.6	|	123.6
+data	|	149	|	121
+data	|	141.5	|	113.5
+data	|	115.4	|	97.4
+data	|	147.4	|	129.4
+data	|	152.3	|	134.3
+data	|	125.2	|	107.2
+data	|	185.6	|	167.6
+data	|	162.3	|	144.3
+data	|	146.3	|	113
+data	|	151.5	|	133.5
+data	|	109.3	|	91.3
+data	|	144.8	|	126.8
+data	|	141.1	|	123.1
+data	|	151.1	|	133.1
+data	|	170.6	|	152.6
+data	|	131.5	|	113.5
+data	|	162.1	|	144.1
+data	|	145.5	|	127.5
+data	|	84.5	|	134.5
+data	|	130	|	112
+data	|	107.3	|	89.3
+data	|	141.8	|	123.8
+data	|	129.7	|	111.7
+data	|	112.1	|	94.1
+
+

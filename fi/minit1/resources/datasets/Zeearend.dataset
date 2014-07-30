@@ -1,0 +1,37 @@
+#
+#  zeearend spanwijdte [bijgewerkt 22-9]
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= zeearend 
+yaxisVariable	= nvt
+data_contents	| zeearend 	  | nvt
+data_units		| cm 	  | cm
+data_range		| 200..300      | 200..300
+#---------------|-----------|-----------|-------------
+
+data		|	260|	-1
+data		|	230|	-1
+data		|	244|	-1
+data		|	257|	-1
+data		|	263|	-1
+data		|	245|	-1
+data		|	251|	-1
+data		|	265|	-1
+data		|	245|	-1
+
+
+
+
+
+
+
+
+
+
+
+

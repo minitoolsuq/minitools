@@ -1,0 +1,78 @@
+#
+# AirPollution 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| mm | mm
+data_range	| 0..200  | 0..200
+#---------------|---------|-----------
+data	|	4	|	30
+data	|	12.5	|	30
+data	|	15	|	34
+data	|	15	|	36
+data	|	20	|	37
+data	|	20	|	38
+data	|	20	|	40
+data	|	50	|	42
+data	|	25	|	43
+data	|	25	|	43
+data	|	13	|	45
+data	|	15	|	52
+data	|	20	|	55
+data	|	14	|	58
+data	|	12	|	58
+data	|	15	|	58
+data	|	20	|	59
+data	|	25	|	63
+data	|	25	|	63
+data	|	32	|	71
+data	|	29	|	75
+data	|	34	|	85
+data	|	34	|	86
+data	|	12	|	86
+data	|	18	|	99
+data	|	12	|	102
+data	|	26	|	102
+data	|	27	|	141
+data	|	18	|	153
+data	|	19	|	161
+data	|	21	|	21
+data	|	7	|	52
+data	|	8	|	54
+data	|	7.5	|	53
+data	|	9	|	55
+data	|		|	53
+data	|		|	58
+data	|		|	61
+data	|		|	57
+data	|		|	54
+data	|		|	65
+data	|		|	67
+data	|		|	65
+data	|		|	62
+data	|		|	66
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+
+

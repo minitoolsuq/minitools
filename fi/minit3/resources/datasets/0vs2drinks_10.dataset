@@ -1,0 +1,38 @@
+#
+# 0vs2drinks*10 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| ounces | cm
+data_range	| -0.1..2.5  | 0..40
+#---------------|---------|-----------
+data	|	0	|	7.7
+data	|	0	|	11.5
+data	|	0	|	13.1
+data	|	0	|	12.7
+data	|	0	|	15.1
+data	|	0	|	16
+data	|	0	|	16.5
+data	|	0	|	17.2
+data	|	0	|	18.7
+data	|	0	|	19.3
+data	|	2	|	14
+data	|	2	|	15.9
+data	|	2	|	18.5
+data	|	2	|	22.8
+data	|	2	|	21.1
+data	|	2	|	24.6
+data	|	2	|	17.2
+data	|	2	|	27.7
+data	|	2	|	30.7
+data	|	2	|	32
+
+

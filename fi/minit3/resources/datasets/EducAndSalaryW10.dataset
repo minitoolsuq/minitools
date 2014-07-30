@@ -1,0 +1,77 @@
+#
+# Educ and Salary W10 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| years of education | salary
+data_range	| 6..20  | 5000..60000
+#---------------|---------|-----------
+data	|	8	|	16700
+data	|	8	|	14500
+data	|	8	|	12000
+data	|	8	|	11000
+data	|	8	|	11000
+data	|	8	|	9000
+data	|	8	|	9500
+data	|	8	|	8000
+data	|	8	|	7900
+data	|	8	|	7600
+data	|	10	|	28600
+data	|	10	|	17700
+data	|	10	|	14300
+data	|	10	|	14000
+data	|	10	|	12000
+data	|	10	|	11900
+data	|	10	|	11000
+data	|	10	|	10700
+data	|	10	|	10800
+data	|	10	|	7500
+data	|	12	|	30000
+data	|	12	|	27000
+data	|	12	|	23000
+data	|	12	|	21100
+data	|	12	|	20000
+data	|	12	|	12500
+data	|	12	|	11600
+data	|	12	|	11500
+data	|	12	|	11100
+data	|	12	|	10600
+data	|	14	|	38500
+data	|	14	|	28000
+data	|	14	|	22000
+data	|	14	|	19500
+data	|	14	|	17500
+data	|	14	|	16900
+data	|	14	|	16800
+data	|	14	|	16000
+data	|	14	|	15600
+data	|	14	|	16500
+data	|	16	|	36000
+data	|	16	|	30500
+data	|	16	|	23500
+data	|	16	|	23000
+data	|	16	|	21900
+data	|	16	|	21500
+data	|	16	|	21000
+data	|	16	|	20900
+data	|	16	|	19800
+data	|	16	|	15100
+data	|	18	|	36700
+data	|	18	|	36000
+data	|	18	|	28500
+data	|	18	|	28000
+data	|	18	|	27500
+data	|	18	|	27000
+data	|	18	|	26000
+data	|	18	|	22500
+data	|	18	|	18900
+
+

@@ -1,0 +1,107 @@
+#
+# Bone50 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Japanese women	50
+yaxisVariable	= American women 50 
+
+data_contents	| Japanese women	50  | American women 50
+data_units	| g/cm2 | g/cm2
+data_range	| 150..650  | 150..650
+#---------------|---------|-----------
+data	|	350	|	330
+data	|	354	|	334
+data	|	358	|	340
+data	|	360	|	342
+data	|	360	|	346
+data	|	363	|	350
+data	|	367	|	354
+data	|	371	|	356
+data	|	375	|	358
+data	|	377	|	362
+data	|	384	|	366
+data	|	388	|	370
+data	|	392	|	374
+data	|	396	|	376
+data	|	399	|	378
+data	|	401	|	382
+data	|	405	|	384
+data	|	407	|	386
+data	|	409	|	388
+data	|	411	|	390
+data	|	413	|	392
+data	|	416	|	395
+data	|	419	|	396
+data	|	420	|	398
+data	|	422	|	402
+data	|	426	|	404
+data	|	428	|	406
+data	|	430	|	410
+data	|	435	|	412
+data	|	439	|	414
+data	|	441	|	420
+data	|	445	|	422
+data	|	449	|	425
+data	|	451	|	426
+data	|	456	|	430
+data	|	457	|	431
+data	|	458	|	432
+data	|	460	|	434
+data	|	461	|	435
+data	|	462	|	436
+data	|	466	|	440
+data	|	469	|	442
+data	|	470	|	443
+data	|	471	|	444
+data	|	472	|	445
+data	|	473	|	446
+data	|	474	|	446
+data	| 475	|	448
+data	|	476	|	449
+data	|	477	|	451
+data	|	478	|	452
+data	|	479	|	453
+data	|	480	|	455
+data	|	482	|	457
+data	|	484	|	459
+data	|	487	| 461
+data	| 489	|	463
+data	|	491	|	465
+data	|	493	|	467
+data	|	495	|	471
+data	|	499	|	473
+data	|	501	|	475
+data	|	504	|	477
+data	|	506	|	479
+data	|	508	|	481
+data	|	510	|	483
+data	|	512	|	485
+data	| 514	|	487
+data	|	516	|	490
+data	|	519	|	493
+data	|	523	|	499
+data	|	526	|	504
+data	|	529	|	507
+data	|	534	|	510
+data	|	537	|	512
+data	|	541	|	513
+data	|	543	|	516
+data	|	550	|	522
+data	|	553	|	525
+data	|	557	|	529
+data	|	561	|	538
+data	|	565	|	543
+data	|	569	|	548
+data	|	573	|	553
+data	|	578	|	560
+data	|	580	|	570
+data	|	582	|	578
+data	|	584	|	NaN
+data	|	586	|	NaN
+
+

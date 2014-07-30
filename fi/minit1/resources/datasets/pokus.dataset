@@ -1,0 +1,15 @@
+# Dataset
+#
+
+
+xaxisvariable 	= x
+yaxisvariable 	= y
+
+data_contents	| x	| y
+data_range	| 0..15	| 0..10
+#---------------|-------|---------
+data		| 14.0	| NAN
+data		| 12.0	| NAN
+data		| 13.0	| NAN
+data		| 12.0	| NAN
+data		| 14.0	| NAN

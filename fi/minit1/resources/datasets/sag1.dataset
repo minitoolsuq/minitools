@@ -1,0 +1,10 @@
+# Dataset
+#
+
+
+xaxisvariable 	= x
+yaxisvariable 	= y
+
+data_contents	| x	| y
+data_range	| 0..10	| 0..10
+#---------------|-------|---------

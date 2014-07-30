@@ -1,0 +1,24 @@
+# Dataset
+#
+
+
+picturetype 	= twovariable
+imagename_hor 	= popside.gif
+imagename_vert 	= pop.gif
+xaxisvariable 	= Allways_ready
+yaxisvariable 	= Tough_cell
+
+data_contents	| Allways_ready	| Tough_cell
+data_units	| minutes	| minutes
+data_range	| 0..125	| 0..140
+#---------------|-------|---------
+data		| 116.0	| 90.0
+data		| 118.0	| 109.0
+data		| 44.0	| 87.0
+data		| 94.0	| 96.0
+data		| 76.0	| 99.0
+data		| 118.0	| 123.0
+data		| 109.0	| 83.0
+data		| 118.0	| 119.0
+data		| 114.0	| 102.0
+data		| 118.0	| 96.0

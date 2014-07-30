@@ -1,0 +1,401 @@
+#
+# Fertilizer
+#
+
+
+pictureType     = twovariable
+
+
+ImageName_hor	= popside.gif
+
+ImageName_vert	= pop.gif
+
+
+xaxisVariable	= x
+
+yaxisVariable	= y
+
+
+data_contents	| x 	  | y
+
+data_units	| m       | m
+
+data_range	| 200..850  | 200..850
+
+#---------------|---------|-----------
+
+data	|	471	|	-1
+
+data	|	549	|	-1
+
+data	|	449	|	-1
+
+data	|	271	|	360
+
+data	|	360	|	700
+
+data	|	690	|	-1
+
+data	|	710	|	-1
+
+data	|	500	|	-1
+
+data	|	545	|	-1
+
+data	|	672	|	-1
+
+data	|	431	|	-1
+
+data	|	359	|	700
+
+data	|	487	|	-1
+
+data	|	531	|	-1
+
+data	|	508	|	-1
+
+data	|	375	|	-1
+
+data	|	530	|	-1
+
+data	|	349	|	634
+
+data	|	425	|	-1
+
+data	|	600	|	-1
+
+data	|	300	|	570
+
+data	|	283	|	560
+
+data	|	612	|	-1
+
+data	|	409	|	-1
+
+data	|	332	|	610
+
+data	|	364	|	800
+
+data	|	750	|	-1
+
+data	|	290	|	565
+
+data	|	674	|	-1
+
+data	|	550	|	-1
+
+data	|	460	|	-1
+
+data	|	350	|	640
+
+data	|	461	|	-1
+
+data	|	419	|	-1
+
+data	|	630	|	-1
+
+data	|	363	|	724
+
+data	|	726	|	-1
+
+data	|	739	|	-1
+
+data	|	494	|	-1
+
+data	|	453	|	-1
+
+data	|	307	|	580
+
+data	|	509	|	-1
+
+data	|	357	|	690
+
+data	|	250	|	200
+
+data	|	423	|	-1
+
+data	|	471	|	-1
+
+data	|	373	|	-1
+
+data	|	364	|	850
+
+data	|	350	|	646
+
+data	|	494	|	-1
+
+data	|	538	|	-1
+
+data	|	517	|	-1
+
+data	|	719	|	-1
+
+data	|	629	|	-1
+
+data	|	480	|	-1
+
+data	|	550	|	-1
+
+data	|	547	|	-1
+
+data	|	451	|	-1
+
+data	|	429	|	-1
+
+data	|	502	|	-1
+
+data	|	295	|	568
+
+data	|	642	|	-1
+
+data	|	433	|	-1
+
+data	|	514	|	-1
+
+data	|	487	|	-1
+
+data	|	505	|	-1
+
+data	|	473	|	-1
+
+data	|	531	|	-1
+
+data	|	535	|	-1
+
+data	|	441	|	-1
+
+data	|	258	|	265
+
+data	|	446	|	-1
+
+data	|	780	|	-1
+
+data	|	772	|	-1
+
+data	|	319	|	600
+
+data	|	310	|	583
+
+data	|	257	|	240
+
+data	|	472	|	-1
+
+data	|	516	|	-1
+
+data	|	546	|	-1
+
+data	|	542	|	-1
+
+data	|	342	|	620
+
+data	|	511	|	-1
+
+data	|	315	|	585
+
+data	|	512	|	-1
+
+data	|	384	|	-1
+
+data	|	469	|	-1
+
+data	|	293	|	565
+
+data	|	280	|	550
+
+data	|	450	|	-1
+
+data	|	410	|	-1
+
+data	|	390	|	-1
+
+data	|	481	|	-1
+
+data	|	550	|	-1
+
+data	|	456	|	-1
+
+data	|	454	|	-1
+
+data	|	724	|	-1
+
+data	|	491	|	-1
+
+data	|	389	|	-1
+
+data	|	395	|	-1
+
+data	|	384	|	-1
+
+data	|	394	|	-1
+
+data	|	645	|	-1
+
+data	|	420	|	-1
+
+data	|	327	|	605
+
+data	|	541	|	-1
+
+data	|	269	|	350
+
+data	|	430	|	-1
+
+data	|	370	|	-1
+
+data	|	594	|	-1
+
+data	|	510	|	-1
+
+data	|	507	|	-1
+
+data	|	405	|	-1
+
+data	|	528	|	-1
+
+data	|	316	|	598
+
+data	|	263	|	305
+
+data	|	228	|	200
+
+data	|	351	|	660
+
+data	|	550	|	-1
+
+data	|	420	|	-1
+
+data	|	261	|	300
+
+data	|	361	|	720
+
+data	|	741	|	-1
+
+data	|	510	|	-1
+
+data	|	791	|	-1
+
+data	|	539	|	-1
+
+data	|	763	|	-1
+
+data	|	472	|	-1
+
+data	|	418	|	-1
+
+data	|	769	|	-1
+
+data	|	632	|	-1
+
+data	|	519	|	-1
+
+data	|	519	|	-1
+
+data	|	332	|	610
+
+data	|	381	|	-1
+
+data	|	400	|	-1
+
+data	|	275	|	530
+
+data	|	602	|	-1
+
+data	|	426	|	-1
+
+data	|	460	|	-1
+
+data	|	437	|	-1
+
+data	|	589	|	-1
+
+data	|	529	|	-1
+
+data	|	790	|	-1
+
+data	|	355	|	675
+
+data	|	338	|	620
+
+data	|	352	|	665
+
+data	|	700	|	-1
+
+data	|	646	|	-1
+
+data	|	550	|	-1
+
+data	|	393	|	-1
+
+data	|	356	|	686
+
+data	|	461	|	-1
+
+data	|	445	|	-1
+
+data	|	514	|	-1
+
+data	|	369	|	850
+
+data	|	520	|	-1
+
+data	|	493	|	-1
+
+data	|	343	|	620
+
+data	|	472	|	-1
+
+data	|	425	|	-1
+
+data	|	370	|	-1
+
+data	|	417	|	-1
+
+data	|	512	|	-1
+
+data	|	683	|	-1
+
+data	|	537	|	-1
+
+data	|	383	|	-1
+
+data	|	700	|	-1
+
+data	|	561	|	-1
+
+data	|	363	|	780
+
+data	|	281	|	550
+
+data	|	468	|	-1
+
+data	|	519	|	-1
+
+data	|	490	|	-1
+
+data	|	481	|	-1
+
+data	|	501	|	-1
+
+data	|	657	|	-1
+
+data	|	272	|	400
+
+data	|	354	|	665
+
+data	|	463	|	-1
+
+data	|	546	|	-1
+
+data	|	386	|	-1
+
+data	|	623	|	-1
+
+data	|	668	|	-1
+
+data	|	582	|	-1
+
+data	|	325	|	600
+
+
+
+

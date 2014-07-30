@@ -1,0 +1,30 @@
+#
+#  Monatoetjes
+#
+
+pictureType     = full
+
+
+#ImageName		= mona.gif
+
+xaxisVariable	= width
+yaxisVariable	= height
+
+data_contents	| width 	| height
+data_range		| 0..100	| 0..100	
+#---------------|-----------|----------
+data			| 21  	    |  59
+data			| 40  	    |  40
+data			| 90  	    |  70
+data			| 21  	    |  39
+data			| 40  	    |  70
+data			| 90  	    |  20
+data			| 21  	    |  19
+data			| 40  	    |  40
+data			| 90  	    |  20
+data			| 21  	    |  59
+data			| 40  	    |  54
+data			| 90  	    |  32
+data			| 21  	    |  16
+data			| 40  	    |  43
+data			| 90  	    |  23

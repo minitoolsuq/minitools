@@ -1,0 +1,29 @@
+#
+#  Cotton
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Omega Land Company1111 
+yaxisVariable	= PISCO Industries2222
+
+data_contents	| Omega Land Company3333 	  | PISCO Industries4444
+data_units		| Pounds 	  | Pounds
+data_range		| 0..900      | 0..900
+#---------------|-----------|-----------|-------------
+data	|	558	|	520
+data	|	616	|	680
+data	|	635	|	728
+data	|	643	|	762
+data	|	574	|	627
+data	|	610	|	720
+data	|	594	|	611
+data	|	640	|	740
+data	|	630	|	725
+data	|	560	|	428
+data	|	650	|	829
+
+

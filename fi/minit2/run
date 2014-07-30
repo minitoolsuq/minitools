@@ -1,0 +1,1 @@
+javac make.java  && java fi.minit2.Minit2 -mode99

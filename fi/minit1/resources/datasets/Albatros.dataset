@@ -1,0 +1,37 @@
+#
+#  albatros spanwijdte [bijgewerkt 25-9]
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= albatros 
+yaxisVariable	= nvt
+data_contents	| albatros 	  | nvt
+data_units		| cm 	  | cm
+data_range		| 100..400      | 100..400
+#---------------|-----------|-----------|-------------
+
+data		|	380|	-1
+data		|	230|	-1
+data		|	348|	-1
+data		|	340|	-1
+data		|	213|	-1
+data		|	345|	-1
+data		|	352|	-1
+data		|	355|	-1
+data		|	320|	-1
+
+
+
+
+
+
+
+
+
+
+
+

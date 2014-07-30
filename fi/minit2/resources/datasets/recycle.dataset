@@ -1,0 +1,17 @@
+#
+# recycle 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+data_contents	| x	  | y
+data_units	|  | 
+data_range	| 0..60  | 0..60
+#---------------|---------|-----------data	|	5	|	5data	|	6	|	7data	|	7	|	8data	|	8	|	10data	|	8	|	10data	|	9	|	11data	|	10	|	11data	|	10	|	12data	|	11	|	13data	|	12	|	13data	|	12	|	14data	|	12	|	14data	|	13	|	14data	|	14	|	15data	|	14	|	15data	|	15	|	15data	|	15	|	15data	|	16	|	16data	|	16	|	16data	|	17	|	16data	|	19	|	16data	|	19	|	17data	|	20	|	17data	|	20	|	17data	|	20	|	17data	|	22	|	17data	|	23	|	18data	|	23	|	18data	|	24	|	18data	|	24	|	18data	|	25	|	19data	|	25	|	19data	|	25	|	19data	|	26	|	19data	|	27	|	19data	|	27	|	19data	|	28	|	20data	|	28	|	20data	|	28	|	20data	|	29	|	20data	|	30	|	20data	|	30	|	20data	|	32	|	20data	|	33	|	21data	|	34	|	21data	|	34	|	21data	|	34	|	21data	|	35	| 	21data	|	35	|	21data	|	36	|	22data	|	36	|	22data	|	36	|	22data	|	36	|	22data	|	37	|	22data	|	37	|	22data	|	38	|	23data	|	38	|	23data	|	38	|	23data	|	38	|	23data	|	39	|	23data	|	39	|	24data	|	39	|	24data	|	40	|	24data	|	40	|	24data	|	41	|	24data	|	41	|	24data	|	42	|	24data	|	42	|	25data	|	43	|	25data	|	43	|	25data	|	43	|	25data	|	44	|	25data	|	44	|	25data	|	44	|	25data	|	44	|	26data	|	44	|	26data	|	44	|	26data	|	45	|	26data	|	45	|	26data	|	45	|	26data	|	45	|	26data	|	46	|	26data	|	46	|	26data	|	47	|	27data	|	47	|	27data	|	48	|	27data	|	48	|	27data	|	49	|	27data	|	50	|	27data	|	50	|	27data	|	51	|	28data	|	52	|	28data	|	52	|	28data	|	53	|	28data	|	53	|	28data	|	53	|	28data	|	55	|	28data	|	57	|	29data	|		|	29data	|		|	29data	|		|	29data	|		|	30data	|		|	30data	|		|	30data	|		|	30data	|		|	30data	|		|	30data	|		|	30data	|		|	30data	|		|	31data	|		|	31data	|		|	31data	|		|	31data	|		|	31data	|		|	31data	|		|	32data	|		|	32data	|		|	32data	|		|	32data	|		|	32data	|		|	32data	|		|	32data	|		|	32data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	33data	|		|	34data	|		|	34data	|		|	34data	|		|	34data	|		|	34data	|		|	34data	|		|	34data	|		|	34data	|		|	35data	|		|	35data	|		|	35data	|		|	36data	|		|	36data	|		|	36data	|		|	36data	|		|	37data	|		|	37data	|		|	37data	|		|	37data	|		|	37data	|		|	37data	|		|	38data	|		|	38data	|		|	38data	|		|	38data	|		|	39data	|		|	39data	|		|	39data	|		|	40data	|		|	40data	|		|	41data	|		|	41data	|		|	42data	|		|	42data	|		|	42data	|		|	43data	|		|	43data	|		|	43data	|		|	43data	|		|	44data	|		|	44data	|		|	44data	|		|	45data	|		|	45data	|		|	45data	|		|	45data	|		|	46data	|		|	46data	|		|	46data	|		|	46data	|		|	47data	|		|	47data	|		|	47data	|		|	48data	|		|	48data	|		|	49data	|		|	49data	|		|	50data	|		|	50data	|		|	51data	|		|	51data	|		|	52data	|		|	53data	|		|	55
+
+

@@ -1,0 +1,31 @@
+#
+#  olifantschatting [bijgewerkt 25-9]; totaal 336, onderscheid in vakjes boven en onder
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= boven 
+yaxisVariable	= onder
+data_contents	| boven 	  | onder
+data_units		| # 	  | #
+data_range		| 20..60      | 20..60
+#---------------|-----------|-----------|-------------
+data		|	46|	40
+data		|	37|	28
+data		|	59|	34
+data		|	56|	36
+
+
+
+
+
+
+
+
+
+
+
+

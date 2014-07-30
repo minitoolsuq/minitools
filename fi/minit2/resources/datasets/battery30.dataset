@@ -1,0 +1,44 @@
+##  Batteries30#pictureType     = twovariableImageName_hor	= popside.gifImageName_vert	= pop.gifxaxisVariable	= Allways_ready yaxisVariable	= Tough_celldata_contents	| Allways_ready 	  | Tough_celldata_units		| minutes 	  | minutesdata_range		| 0..170      | 0..170#---------------|-----------|-----------|-------------
+data	|	65	|	68
+data	|	66	|	75
+data	|	67	|	89
+data	|	69	|	96
+data	|	72	|	102
+data	|	77	|	107
+data	|	81	|	112
+data	|	82	|	117
+data	|	86	|	123
+data	|	92	|	122
+data	|	92	|	123
+data	|	95	|	123
+data	|	98	|	124
+data	|	100	|	125
+data	|	101	|	125
+data	|	102	|	126
+data	|	105	|	127
+data	|	108	|	128
+data	|	109	|	129
+data	|	109	|	131
+data	|	110	|	135
+data	|	112	|	138
+data	|	112	|	141
+data	|	114	|	145
+data	|	104	|	147
+data	|	119	|	150
+data	|	120	|	152
+data	|	121	|	154
+data	|	123	|	156
+data	|	127	|	160
+data	|	129	|	NaN
+data	|	138	|	NaN
+data	|	139	|	NaN
+data	|	143	|	NaN
+data	|	146	|	NaN
+data	|	149	|	NaN
+data	|	152	|	NaN
+data	|	154	|	NaN
+data	|	155	|	NaN
+data	|	157	|	NaN
+
+
+

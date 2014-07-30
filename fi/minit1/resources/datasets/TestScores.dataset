@@ -1,0 +1,62 @@
+#
+#  TestScores
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Allways_ready 
+yaxisVariable	= Tough_cell
+
+data_contents	| Allways_ready 	  | Tough_cell
+data_units		| minutes 	  | minutes
+data_range		| 0..120     | 0..120
+#---------------|-----------|-----------|-------------
+data		|	100	|	
+data		|	100	|	
+data		|	99	|	
+data		|	98	|	
+data		|	95	|	
+data		|	95	|	
+data		|	95	|	
+data		|	92	|	
+data		|	90	|	
+data		|	89	|	
+data		|	88	|	
+data		|	88	|	
+data		|	87	|	
+data		|	86	|	
+data		|	86	|	
+data		|	85	|	
+data		|	84	|	
+data		|	83	|	
+data		|	79	|	
+data		|	77	| 
+data		|	75	|	
+data		|	70	|	
+data		|	65	|	
+data		|	60	|	
+data		|	57	|	
+data		|	55	|	
+data		|	50	|	
+data		|	40	|	
+data		|	35	|	
+data		|	33	|	
+data		|	25	|	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

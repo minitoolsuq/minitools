@@ -1,0 +1,168 @@
+#
+# anxiety 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| anxiety level | test score
+data_range	| 0..100  | 0..100
+#---------------|---------|-----------
+data	|	5	|	40
+data	|	8	|	50
+data	|	7	|	55
+data	|	10	|	60
+data	|	11	|	65
+data	|	12	|	70
+data	|	13	|	75
+data	|	14	|	80
+data	|	15	|	35
+data	|	16	|	42
+data	|	17	|	46
+data	|	18	|	56
+data	|	19	|	58
+data	|	20	|	59
+data	|	23	|	60
+data	|	22	|	60
+data	|	24	|	62
+data	|	25	|	68
+data	|	26	|	69
+data	|	27	|	70
+data	|	30	|	73
+data	|	29	|	74
+data	|	28	|	75
+data	|	27	|	78
+data	|	19	|	79
+data	|	18	|	68
+data	|	17	|	79
+data	|	16	|	78
+data	|	21	|	75
+data	|	19	|	81
+data	|	31	|	55
+data	|	32	|	58
+data	|	33	|	59
+data	|	34	|	60
+data	|	35	|	62
+data	|	36	|	65
+data	|	37	|	68
+data	|	38	|	70
+data	|	39	|	74
+data	|	45	|	76
+data	|	41	|	79
+data	|	42	|	80
+data	|	43	|	80
+data	|	44	|	82
+data	|	45	|	84
+data	|	46	|	86
+data	|	47	|	88
+data	|	48	|	94
+data	|	49	|	85
+data	|	50	|	84
+data	|	50	|	83
+data	|	31	|	82
+data	|	32	|	86
+data	|	33	|	89
+data	|	34	|	90
+data	|	35	|	90
+data	|	36	|	90
+data	|	37	|	93
+data	|	38	|	86
+data	|	39	|	95
+data	|	45	|	96
+data	|	41	|	97
+data	|	42	|	67
+data	|	43	|	100
+data	|	44	|	89
+data	|	45	|	100
+data	|	46	|	98
+data	|	47	|	97
+data	|	48	|	96
+data	|	49	|	95
+data	|	50	|	94
+data	|	31	|	93
+data	|	32	|	100
+data	|	33	|	89
+data	|	34	|	89
+data	|	35	|	78
+data	|	36	|	87
+data	|	37	|	87
+data	|	38	|	78
+data	|	39	|	79
+data	|	45	|	76
+data	|	41	|	88
+data	|	54	|	79
+data	|	43	|	70
+data	|	55	|	69
+data	|	45	|	69
+data	|	46	|	68
+data	|	53	|	87
+data	|	48	|	89
+data	|	49	|	88
+data	|	50	|	68
+data	|	31	|	86
+data	|	32	|	85
+data	|	55	|	76
+data	|	34	|	83
+data	|	52	|	82
+data	|	36	|	81
+data	|	37	|	79
+data	|	38	|	78
+data	|	39	|	77
+data	|	45	|	84
+data	|	41	|	75
+data	|	42	|	74
+data	|	43	|	73
+data	|	55	|	72
+data	|	45	|	71
+data	|	46	|	69
+data	|	47	|	68
+data	|	48	|	69
+data	|	55	|	100
+data	|	59	|	68
+data	|	60	|	70
+data	|	61	|	67
+data	|	62	|	65
+data	|	63	|	64
+data	|	64	|	63
+data	|	65	|	67
+data	|	67	|	68
+data	|	68	|	69
+data	|	69	|	65
+data	|	70	|	67
+data	|	71	|	71
+data	|	72	|	71
+data	|	73	|	67
+data	|	74	|	66
+data	|	75	|	65
+data	|	76	|	59
+data	|	77	|	76
+data	|	78	|	69
+data	|	79	|	68
+data	|	80	|	68
+data	|	81	|	74
+data	|	82	|	58
+data	|	83	|	70
+data	|	84	|	64
+data	|	85	|	63
+data	|	86	|	62
+data	|	87	|	61
+data	|	88	|	57
+data	|	89	|	72
+data	|	90	|	75
+data	|	91	|	56
+data	|	92	|	55
+data	|	93	|	55
+data	|	94	|	57
+data	|	95	|	58
+data	|	96	|	59
+data	|	97	|	45
+data	|	99	|	49
+data	|	98	|	45
+
+

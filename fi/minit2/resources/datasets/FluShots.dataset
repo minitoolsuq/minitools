@@ -1,0 +1,163 @@
+## Aids bewerkt 8NaN1-99#pictureType     = twovariableImageName_hor	= popside.gifImageName_vert	= pop.gifxaxisVariable	= No Flu ShotsyaxisVariable	= Flu Shotsdata_contents	| No Flu Shots 	  | Flu Shots 	data_units	| Days       | daysdata_range	| 0..13	| 0..13#---------------|-------|---------
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0
+data	|	0	|	0.5
+data	|	0	|	0.5
+data	|	0	|	0.5
+data	|	0	|	0.5
+data	|	0	|	0.25
+data	|	0	|	0
+data	|	0.25	|	1.25
+data	|	0.375	|	0
+data	|	0.375	|	0
+data	|	0.375	|	0
+data	|	0.375	|	.75
+data	|	0.5	|	1.25
+data	|	0.5	|	1.5
+data	|	0.625	|	0.25
+data	|	0.625	|	1.625
+data	|	0.75	|	0.75
+data	|	0.75	|	2.75
+data	|	0.75	|	1
+data	|	0.75	|	1
+data	|	0.75	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1
+data	|	1	|	1.25
+data	|	1	|	2.375
+data	|	1	|	1.5
+data	|	1	|	1.5
+data	|	1.25	|	2.5
+data	|	1	|	2.25
+data	|	1.25	|	3
+data	|	1	|	1.75
+data	|	1.25	|	2
+data	|	1.5	|	2
+data	|	1.5	|	2
+data	|	1.5	|	2
+data	|	1.5	|	2
+data	|	1.625	|	2
+data	|	1.625	|	2
+data	|	1.625	|	2
+data	|	1.625	|	2.25
+data	|	1.75	|	2.5
+data	|	1.75	|	3
+data	|	2	|	3
+data	|	2	|	3
+data	|	2	|	3
+data	|	2	|	3
+data	|	2	|	3.25
+data	|	2	|	3.375
+data	|	2	|	3.75
+data	|	2	|	4
+data	|	2	|	4
+data	|	2	|	4
+data	|	2	|	4.75
+data	|	2	|	5
+data	|	2.25	|	5
+data	|	2.25	|	5
+data	|	2.25	|	6
+data	|	2.25	|	6
+data	|	2.25	|	7
+data	|	2.5	|	8
+data	|	2.625	|	10.625
+data	|	2.625	|	11
+data	|	2.5	|	13
+data	|	2.75	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3	|	NaN
+data	|	3.375	|	NaN
+data	|	3.5	|	NaN
+data	|	3.25	|	NaN
+data	|	3.25	|	NaN
+data	|	3.5	|	NaN
+data	|	3.625	|	NaN
+data	|	3.75	|	NaN
+data	|	3.5	|	NaN
+data	|	3.5	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4	|	NaN
+data	|	4.5	|	NaN
+data	|	4.5	|	NaN
+data	|	4.625	|	NaN
+data	|	4.25	|	NaN
+data	|	4.75	|	NaN
+data	|	4.75	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5	|	NaN
+data	|	5.25	|	NaN
+data	|	5.25	|	NaN
+data	|	5.5	|	NaN
+data	|	5.625	|	NaN
+data	|	5.625	|	NaN
+data	|	5.75	|	NaN
+data	|	5.75	|	NaN
+data	|	6	|	NaN
+data	|	6	|	NaN
+data	|	6	|	NaN
+data	|	6	|	NaN
+data	|	6	|	NaN
+data	|	6	|	NaN
+data	|	6.25	|	NaN
+data	|	6.375	|	NaN
+data	|	6.625	|	NaN
+data	|	6.625	|	NaN
+data	|	6.75	|	NaN
+data	|	7	|	NaN
+data	|	7	|	NaN
+data	|	7	|	NaN
+data	|	7	|	NaN
+data	|	7.25	|	NaN
+data	|	7.25	|	NaN
+data	|	7.5	|	NaN
+data	|	7.75	|	NaN
+data	|	8	|	NaN
+data	|	8	|	NaN
+data	|	8	|	NaN
+data	|	8.25	|	NaN
+data	|	8.25	|	NaN
+data	|	8.75	|	NaN
+data	|	8.5	|	NaN
+data	|	8.75	|	NaN
+data	|	9	|	NaN
+data	|	9.75	|	NaN
+data	|	9	|	NaN
+data	|	9.375	|	NaN
+data	|	10	|	NaN
+data	|	10	|	NaN
+data	|	11	|	NaN
+data	|	11	|	NaN

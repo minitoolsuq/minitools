@@ -1,0 +1,29 @@
+#
+#  Redcross
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= community center 
+yaxisVariable	= public school
+
+data_contents	| community center 	  | public school
+data_units		| number of coats 	  | number of coats
+data_range		| 20..160      | 20..160
+#---------------|-----------|-----------|-------------data		|	77	|	73data		|	69	|	93data		|	84	|	68data		|	80	|	80data		|	95	|	115data		|	65	|	96data		|	106	|	92data		|	117	|	82data		|	131	|	86data		|	148	|	81data		|	141	|	80data		|	41	|	NaNdata		|	47	|	NaNdata		|	35	|	NaN
+
+
+
+
+
+
+
+
+
+
+
+
+

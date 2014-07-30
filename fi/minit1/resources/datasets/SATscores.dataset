@@ -1,0 +1,62 @@
+#
+#  SATscores
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Allways_ready 
+yaxisVariable	= Tough_cell
+
+data_contents	| Allways_ready 	  | Tough_cell
+data_units		| minutes 	  | minutes
+data_range		| 0..1800     | 0..1800
+#---------------|-----------|-----------|-------------
+data		|	1600	|	
+data		|	1550	|	
+data		|	1500	|	
+data		|	1470	|	
+data		|	1460	|	
+data		|	1380	|	
+data		|	1350	|	
+data		|	1200	|	
+data		|	1150	|	
+data		|	1100	|	
+data		|	1080	|	
+data		|	1000	|	
+data		|	950	|	
+data		|	940	|	
+data		|	900	|	
+data		|	850	|	
+data		|	835	|	
+data		|	815	|	
+data		|	800	|	
+data		|	795	|	
+data		|	780	|	
+data		|	770	|	
+data		|	755	|	
+data		|	750	|	
+data		|	745	|	
+data		|	741	|	
+data		|	738	|	
+data		|	735	|	
+data		|	730	|	
+data		|	726	|	
+data		|	715	|	
+data		|	705	|	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

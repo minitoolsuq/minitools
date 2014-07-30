@@ -1,0 +1,138 @@
+#
+# Educ and Salary M20 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| years of education | salary
+data_range	| 6..20  | 5000..80000
+#---------------|---------|-----------
+data	|	8	|	58000
+data	|	8	|	44000
+data	|	8	|	32000
+data	|	8	|	26500
+data	|	8	|	22700
+data	|	8	|	26000
+data	|	8	|	27000
+data	|	8	|	24000
+data	|	8	|	22000
+data	|	8	|	20000
+data	|	8	|	18000
+data	|	8	|	17500
+data	|	8	|	16400
+data	|	8	|	13500
+data	|	8	|	12500
+data	|	8	|	10500
+data	|	8	|	10500
+data	|	8	|	11800
+data	|	8	|	10000
+data	|	8	|	19000
+data	|	10	|	49000
+data	|	10	|	73600
+data	|	10	|	65400
+data	|	10	|	44500
+data	|	10	|	32500
+data	|	10	|	43700
+data	|	10	|	35000
+data	|	10	|	24000
+data	|	10	|	23000
+data	|	10	|	19100
+data	|	10	|	18500
+data	|	10	|	17500
+data	|	10	|	23600
+data	|	10	|	15700
+data	|	10	|	15700
+data	|	10	|	14500
+data	|	10	|	13000
+data	|	10	|	12000
+data	|	10	|	12000
+data	|	10	|	11500
+data	|	12	|	69500
+data	|	12	|	56700
+data	|	12	|	42300
+data	|	12	|	37500
+data	|	12	|	26500
+data	|	12	|	26000
+data	|	12	|	35000
+data	|	12	|	24500
+data	|	12	|	24500
+data	|	12	|	25000
+data	|	12	|	23400
+data	|	12	|	22300
+data	|	12	|	20500
+data	|	12	|	19800
+data	|	12	|	18500
+data	|	12	|	18700
+data	|	12	|	17500
+data	|	12	|	16500
+data	|	12	|	15000
+data	|	12	|	15000
+data	|	14	|	75500
+data	|	14	|	63500
+data	|	14	|	55600
+data	|	14	|	42600
+data	|	14	|	43600
+data	|	14	|	45000
+data	|	14	|	39800
+data	|	14	|	31000
+data	|	14	|	32000
+data	|	14	|	30100
+data	|	14	|	29000
+data	|	14	|	25400
+data	|	14	|	23000
+data	|	14	|	30500
+data	|	14	|	17500
+data	|	14	|	19500
+data	|	14	|	16000
+data	|	14	|	19700
+data	|	14	|	19800
+data	|	14	|	15700
+data	|	16	|	55900
+data	|	16	|	54900
+data	|	16	|	58600
+data	|	16	|	41800
+data	|	16	|	46000
+data	|	16	|	45000
+data	|	16	|	35000
+data	|	16	|	34900
+data	|	16	|	34500
+data	|	16	|	34500
+data	|	16	|	24500
+data	|	16	|	23500
+data	|	16	|	28700
+data	|	16	|	28000
+data	|	16	|	27600
+data	|	16	|	25600
+data	|	16	|	23900
+data	|	16	|	23500
+data	|	16	|	11400
+data	|	16	|	15500
+data	|	18	|	62000
+data	|	18	|	53700
+data	|	18	|	55000
+data	|	18	|	45000
+data	|	18	|	38900
+data	|	18	|	36000
+data	|	18	|	43000
+data	|	18	|	41600
+data	|	18	|	42000
+data	|	18	|	38900
+data	|	18	|	37900
+data	|	18	|	36700
+data	|	18	|	34500
+data	|	18	|	32400
+data	|	18	|	31500
+data	|	18	|	30000
+data	|	18	|	29800
+data	|	18	|	26500
+data	|	18	|	26500
+data	|	18	|	23500
+
+

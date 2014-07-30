@@ -1,0 +1,211 @@
+#
+# Aids bewerkt 8NaN1-99
+#
+
+
+pictureType     = twovariable
+
+
+ImageName_hor	= popside.gif
+
+ImageName_vert	= pop.gif
+
+
+xaxisVariable	= Traditional treatment
+
+yaxisVariable	= Experimental treatment
+
+
+data_contents	| Traditional treatment  |	Experimental treatment
+
+data_units	| m       | m
+
+data_range	| 200..850	| 200..850
+
+#---------------|-------|---------
+data		| 228.0	| NaN
+data		| 250.0	| NaN
+data		| 237.0	| NaN  
+data		| 258.0	| NaN
+data		| 261.0	| NaN
+data		| 530.0	| NaN
+data		| 269.0	| NaN
+data		| 271.0	| NaN
+data		| 272.0	| NaN
+data		| 275.0	| NaN
+data		| 280.0	| NaN
+data		| 281.0	| NaN
+data		| 283.0	| NaN
+data		| 290.0	| NaN
+data		| 293.0	| NaN
+data		| 295.0	| NaN
+data		| 300.0	| NaN
+data		| 307.0	| NaN
+data		| 310.0	| NaN
+data		| 315.0	| NaN
+data		| 316.0	| NaN
+data		| 319.0	| NaN
+data		| 325.0	| NaN
+data		| 327.0	| NaN
+data		| 332.0	| NaN
+data		| 332.0	| NaN
+data		| 338.0	| NaN
+data		| 342.0	| NaN
+data		| 343.0	| NaN
+data		| 349.0	| NaN
+data		| 350.0	| NaN
+data		| 350.0	| NaN
+data		| 351.0	| NaN
+data		| 352.0	| NaN
+data		| 571.0	| NaN
+data		| 312.0	| NaN
+data		| 338.0	| NaN
+data		| 342.0	| NaN
+data		| 359.0	| NaN
+data		| 360.0	| NaN
+data		| 361.0	| NaN
+data		| 363.0	| NaN
+data		| 363.0	| NaN
+data		| 364.0	| NaN
+data		| 404.0	| NaN
+data		| 369.0	| NaN
+data		| 370.0	| NaN
+data		| 370.0	| NaN
+data		| 373.0	| NaN
+data		| 375.0	| NaN
+data		| 381.0	| NaN
+data		| 383.0	| NaN
+data		| 384.0	| NaN
+data		| 384.0	| NaN
+data		| 386.0	| NaN
+data		| 389.0	| NaN
+data		| 390.0	| NaN
+data		| 393.0	| NaN
+data		| 394.0	| NaN
+data		| 395.0	| NaN
+data		| 400.0	| NaN
+data		| 405.0	| NaN
+data		| 409.0	| NaN
+data		| 410.0	| NaN
+data		| 417.0	| NaN
+data		| 418.0	| NaN
+data		| 419.0	| NaN
+data		| 420.0	| NaN
+data		| 420.0	| NaN
+data		| 423.0	| NaN
+data		| 425.0	| NaN
+data		| 437.0	| NaN
+data		| 426.0	| NaN
+data		| 429.0	| NaN
+data		| 430.0	| NaN
+data		| 431.0	| NaN
+data		| 433.0	| NaN
+data		| 437.0	| NaN
+data		| 441.0	| NaN
+data		| 445.0	| NaN
+data		| 446.0	| NaN
+data		| 449.0	| NaN
+data		| 450.0	| NaN
+data		| 451.0	| NaN
+data		| 453.0	| NaN
+data		| 454.0	| NaN
+data		| 456.0	| NaN
+data		| 460.0	| NaN
+data		| 460.0	| NaN
+data		| 461.0	| NaN
+data		| 461.0	| NaN
+data		| 463.0	| NaN
+data		| 468.0	| NaN
+data		| 469.0	| NaN
+data		| 471.0	| NaN
+data		| 471.0	| NaN
+data		| 472.0	| NaN
+data		| 472.0	| NaN
+data		| 472.0	| NaN
+data		| 480.0	| NaN
+data		| 480.0	| NaN
+data		| 481.0	| NaN
+data		| 481.0	| NaN
+data		| 487.0	| NaN
+data		| 487.0	| NaN
+data		| 490.0	| NaN
+data		| 491.0	| NaN
+data		| 493.0	| NaN
+data		| 494.0	| NaN
+data		| 494.0	| NaN
+data		| 500.0	| NaN
+data		| 501.0	| NaN
+data		| 502.0	| NaN
+data		| 505.0	| NaN
+data		| 507.0	| NaN
+data		| 508.0	| NaN
+data		| 509.0	| NaN
+data		| 510.0	| NaN
+data		| 510.0	| NaN
+data		| 511.0	| NaN
+data		| 512.0	| NaN
+data		| 512.0	| NaN
+data		| 514.0	| NaN
+data		| 526.0	| NaN
+data		| 516.0	| NaN
+data		| 517.0	| NaN
+data		| 519.0	| NaN
+data		| 519.0	| NaN
+data		| 519.0	| NaN
+data		| 520.0	| NaN
+data		| 528.0	| NaN
+data		| 529.0	| NaN
+data		| 530.0	| NaN
+data		| 531.0	| NaN
+data		| 531.0	| NaN
+data		| 535.0	| NaN
+data		| 537.0	| NaN
+data		| 538.0	| NaN
+data		| 539.0	| NaN
+data		| 541.0	| NaN
+data		| 501.0	| 200.0
+data		| 550.0	| 200.0
+data		| 554.0	| 240.0
+data		| 546.0	| 265.0
+data		| 547.0	| 300.0
+data		| 549.0	| 305.0
+data		| 571.0	| 350.0
+data		| 560.0	| 360.0
+data		| 542.0	| 400.0
+data		| 543.0	| 530.0
+data		| 543.0	| 550.0
+data		| 561.0	| 550.0
+data		| 582.0	| 560.0
+data		| 589.0	| 565.0
+data		| 594.0	| 565.0
+data		| 600.0	| 568.0
+data		| 602.0	| 570.0
+data		| 612.0	| 580.0
+data		| 623.0	| 583.0
+data		| 629.0	| 585.0
+data		| 630.0	| 598.0
+data		| 632.0	| 600.0
+data		| 642.0	| 600.0
+data		| 645.0	| 605.0
+data		| 646.0	| 610.0
+data		| 657.0	| 610.0
+data		| 668.0	| 620.0
+data		| 672.0	| 620.0
+data		| 674.0	| 620.0
+data		| 683.0	| 634.0
+data		| 690.0	| 640.0
+data		| 700.0	| 646.0
+data		| 700.0	| 660.0
+data		| 710.0	| 665.0
+data		| 719.0	| 665.0
+data		| 724.0	| 675.0
+data		| 582.0	| 686.0
+data		| 739.0	| 690.0
+data		| 741.0	| 700.0
+data		| 750.0	| 700.0
+data		| 763.0	| 720.0
+data		| 532.0	| 724.0
+data		| 772.0	| 780.0
+data		| 780.0	| 800.0
+data		| 790.0	| 850.0
+data		| 580.0	| 850.0

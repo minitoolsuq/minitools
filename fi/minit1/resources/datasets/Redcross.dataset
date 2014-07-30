@@ -1,0 +1,40 @@
+#
+#  Redcross
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= community center 
+yaxisVariable	= supermarket
+
+data_contents	| community center 	  | supermarket
+data_units		| number of people 	  | number of people
+data_range		| 20..160      | 20..160
+#---------------|-----------|-----------|-------------
+data		|	141	|	73
+data		|	148	|	93
+data		|	47	|	68
+data		|	84	|	80
+data		|	106	|	115
+data		|	95	|	96
+data		|	35	|	92
+data		|	61	|	82
+data		|	80	|	86
+data		|	117	|	81
+data		|	131	|	80
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+#
+# Bone30 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Students with Lockers
+yaxisVariable	= Students without Lockers
+data_contents	| Students with Lockers 	  | Students without Lockers
+data_units	| pounds | pounds
+data_range	| 0..70  | 0..70
+#---------------|---------|-----------data	|	9.6	|	9data	|	12	|	11data	|	16.56	|	13.68data	|	17.52	|	14.64data	|	19.2	|	15.6data	|	21.12	|	17.04data	|	21.6	|	17.52data	|	22.56	|	18.48data	|	38.3	|	18.96data	|	39.1	|	19.44data	|	20	|	19.92data	|	21.2	|	20.4data	|	48	|	20.64data	|	24.96	|	20.88data	|	25.92	|	21.12data	|	26.4	|	21.36data	|	26.88	|	21.6data	|	28.08	|	21.84data	|	29.04	|	23.28data	|	29.52	|	23.76data	|	30	|	24.24data	|	30.48	|	24.72data	|	30.96	|	25.68data	|	31.3	|	26.16data	|	31.44	|	26.64data	|	31.68	|	27.6data	|	31.92	|	27.84data	|	42	|	28.08data	|	32.4	|	28.32data	|	32.64	|	28.56data	|	32.88	|	28.8data	|	46.7	|	30data	|	40	|	29.28data	|	33.84	|	29.76data	|	37.1	|	30data	|	34.32	|	30.24data	|	41	|	30.48data	|	40.8	|	30.72data	|	30.04	|	30.96data	|	41.7	|	31.2data	|	49.4	|	31.44data	|	23	|	31.68data	|	43.52	|	31.92data	|	43.1	|	31.92data	|	36.2	|	32.16data	|	35.3	|	32.4data	|	41	|	32.64data	|	36.8	| 	32.88data	|	38.2	|	33.12data	|	33.7	|	33.36data	|	38.64	|	33.6data	|	39.12	|	34.08data	|	39.36	|	34.32data	|	29	|	34.56data	|	39.84	|	34.8data	|	40.32	|	35.04data	|	50.4	|	35.28data	|	44	|	35.52data	|	33.3	|	35.76data	|	42.24	|	36data	|	42.72	|	36.24data	|	43.2	|	36.72data	|	43.92	|	37.2data	|	44.88	|	37.68data	|	45.36	|	38.16data	|	45.84	|	38.64data	|	15.2	|	39.12data	|	46.8	|	39.6data	|	47.76	|	40.08data	|	48.72	|	40.56data	|	49.2	|	41.52data	|	40.68	|	42data	|	51.12	|	42.48data	|	37.8	|	42.96data	|	52.4	|	43.92data	|	52.8	|	44.88data	|	42.28	|	45.36data	|	53.76	|	46.8data	|	54.48	|	47.28data	|	55.2	|	47.76data	|	57.16	|	48.24data	|	0.5	|	48.72data	|	23.9	|	49.68data	|	4	|	49.92data	|	5.3	|	51.12data	|	7	|	52.8data	|	7	|	54data	|	8.5	|	57.6data	|	10	|	22.32data	|	43	|	22.32data	|	44.5	|	23.28data	|	44.5	|	24.72data	|	45.7	|	24.72data	|	46	|	25.44data	|	47.5	|	25.92data	|	33	|	25.92data	|	18.5	|	26.16data	|	28	|	26.88data	|	14	|	28.32data	|	50	|	28.56
+
+

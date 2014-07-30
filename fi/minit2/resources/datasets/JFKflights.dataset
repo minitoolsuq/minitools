@@ -1,0 +1,138 @@
+#
+# JFKflights 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= before
+yaxisVariable	= after
+
+data_contents	| before 	  | after
+data_units	| number of flights | number of flights
+data_range	| 0..250  | 0..250
+#---------------|---------|-----------
+data	|	202	|	0
+data	|	196	|	4
+data	|	195	|	16
+data	|	193	|	18
+data	|	191	|	90
+data	|	190	|	107
+data	|	190	|	117
+data	|	189	|	118
+data	|	188	|	119
+data	|	186	|	122
+data	|	186	|	123
+data	|	186	|	123
+data	|	185	|	123
+data	|	185	|	124
+data	|	184	|	124
+data	|	184	|	130
+data	|	184	|	132
+data	|	183	|	134
+data	|	182	|	127
+data	|	181	|	130
+data	|	181	|	133
+data	|	180	|	139
+data	|	179	|	139
+data	|	132	|	139
+data	|	135	|	140
+data	|	137	|	140
+data	|	176	|	141
+data	|	175	|	142
+data	|	175	|	144
+data	|	174	|	145
+data	|	136	|	145
+data	|	173	|	146
+data	|	173	|	147
+data	|	175	|	147
+data	|	178	|	148
+data	|	176	|	132
+data	|	177	|	136
+data	|	169	|	134
+data	|	169	|	139
+data	|	168	|	150
+data	|	168	|	150
+data	|	168	|	151
+data	|	167	|	151
+data	|	164	|	152
+data	|	163	|	153
+data	|	162	|	154
+data	|	162	|	155
+data	|	161	|	161
+data	|	160	|	167
+data	|	158	|	173
+data	|	157	|	163
+data	|	155	|	170
+data	|	154	|	166
+data	|	153	|	159
+data	|	153	|	169
+data	|	151	|	167
+data	|	150	|	160
+data	|	149	|	128
+data	|	146	|	126
+data	|	145	|	140
+data	|	143	|	145
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+
+

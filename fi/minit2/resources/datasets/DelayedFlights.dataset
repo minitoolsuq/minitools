@@ -1,0 +1,138 @@
+#
+# DelayedFlights 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= before
+yaxisVariable	= after
+
+data_contents	| before 	  | after
+data_units	| number of flights | number of flights
+data_range	| 0..200  | 0..200
+#---------------|---------|-----------
+data	|	1	|	10
+data	|	2	|	10
+data	|	2	|	11
+data	|	3	|	11
+data	|	4	|	12
+data	|	4	|	13
+data	|	5	|	13
+data	|	5	|	13
+data	|	6	|	13
+data	|	7	|	13
+data	|	7	|	14
+data	|	7	|	14
+data	|	8	|	14
+data	|	9	|	15
+data	|	9	|	15
+data	|	3	|	15
+data	|	4	|	15
+data	|	6	|	15
+data	|	7	|	15
+data	|	8	|	16
+data	|	9	|	16
+data	|	10	|	16
+data	|	10	|	17
+data	|	11	|	17
+data	|	11	|	17
+data	|	11	|	18
+data	|	12	|	18
+data	|	12	|	18
+data	|	13	|	19
+data	|	13	|	19
+data	|	13	|	19
+data	|	13	|	20
+data	|	13	|	21
+data	|	14	|	22
+data	|	14	|	23
+data	|	15	|	24
+data	|	14	|	27
+data	|	15	|	30
+data	|	16	|	34
+data	|	16	|	36
+data	|	16	|	38
+data	|	17	|	38
+data	|	17	|	39
+data	|	18	|	46
+data	|	19	|	58
+data	|	21	|	72
+data	|	19	|	155
+data	|	22	|	159
+data	|	18	|	172
+data	|	20	|	176
+data	|	20	|	9
+data	|	23	|	26
+data	|	17	|	28
+data	|	14	|	31
+data	|	13	|	19
+data	|	17	|	22
+data	|	12	|	27
+data	|	16	|	24
+data	|	25	|	17
+data	|	20	|	14
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+
+

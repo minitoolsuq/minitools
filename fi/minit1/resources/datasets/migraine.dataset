@@ -1,0 +1,50 @@
+#
+#  Battery
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Allways_ready 
+yaxisVariable	= Tough_cell
+
+data_contents	| Allways_ready 	  | Tough_cell
+data_units		| minutes 	  | minutes
+data_range		| 0..200      | 0..200
+#---------------|-----------|-----------|-------------
+data	|	188	|	190
+data	|	187	|	170
+data	|	184	|	165
+data	|	178	|	144
+data	|	175	|	135
+data	|	172	|	132
+data	|	163	|	131
+data	|	147	|	127
+data	|	125	|	121
+data	|	115	|	112
+data	|	90	|	111
+data	|	81	|	110
+data	|	72	|	110
+data	|	60	|	108
+data	|	58	|	106
+data	|	54	|	99
+data	|	54	|	95
+data	|	53	|	88
+data	|	51	|	85
+data	|	48	|	53
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+#
+# energy bills 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| years | dollars
+data_range	| 1987..1998  | 1000..12000
+#---------------|---------|-----------
+data	|	1988	|	8700
+data	|	1988	|	8500
+data	|	1988	|	8000
+data	|	1988	|	7500
+data	|	1988	|	8300
+data	|	1988	|	9500
+data	|	1988	|	3600
+data	|	1988	|	6700
+data	|	1988	|	3200
+data	|	1989	|	7200
+data	|	1989	|	7500
+data	|	1989	|	9200
+data	|	1989	|	4100
+data	|	1989	|	5800
+data	|	1989	|	6300
+data	|	1989	|	6400
+data	|	1989	|	7900
+data	|	1989	|	4800
+data	|	1990	|	6500
+data	|	1990	|	6900
+data	|	1990	|	9100
+data	|	1990	|	3900
+data	|	1990	|	5800
+data	|	1990	|	6100
+data	|	1990	|	6000
+data	|	1990	|	5300
+data	|	1990	|	8200
+data	|	1991	|	4500
+data	|	1991	|	6000
+data	|	1991	|	5400
+data	|	1991	|	7500
+data	|	1991	|	8600
+data	|	1991	|	4500
+data	|	1991	|	5600
+data	|	1991	|	7500
+data	|	1991	|	8000
+data	|	1992	|	5800
+data	|	1992	|	5000
+data	|	1992	|	7900
+data	|	1992	|	3900
+data	|	1992	|	4600
+data	|	1992	|	5500
+data	|	1992	|	8500
+data	|	1992	|	6900
+data	|	1992	|	7200
+data	|	1993	|	5700
+data	|	1993	|	5000
+data	|	1993	|	5500
+data	|	1993	|	7300
+data	|	1993	|	4200
+data	|	1993	|	4000
+data	|	1993	|	6000
+data	|	1993	|	6500
+data	|	1993	|	4800
+data	|	1994	|	5600
+data	|	1994	|	5500
+data	|	1994	|	3800
+data	|	1994	|	11500
+data	|	1994	|	6500
+data	|	1994	|	7500
+data	|	1994	|	6000
+data	|	1994	|	4800
+data	|	1994	|	7100
+data	|	1995	|	5500
+data	|	1995	|	3900
+data	|	1995	|	5000
+data	|	1995	|	4800
+data	|	1995	|	5400
+data	|	1995	|	7500
+data	|	1995	|	6000
+data	|	1995	|	9000
+data	|	1995	|	7500
+data	|	1996	|	5300
+data	|	1996	|	2900
+data	|	1996	|	5500
+data	|	1996	|	5000
+data	|	1996	|	3400
+data	|	1996	|	6800
+data	|	1996	|	5900
+data	|	1996	|	6500
+data	|	1996	|	7200
+data	|	1997	|	4900
+data	|	1997	|	5000
+data	|	1997	|	6500
+data	|	1997	|	7000
+data	|	1997	|	5500
+data	|	1997	|	3200
+data	|	1997	|	3000
+data	|	1997	|	4700
+data	|	1997	|	4000
+
+
+energy

@@ -1,0 +1,98 @@
+#
+# car 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x | y
+data_units	| mm | mm
+data_range	| 0..100  | 0..100
+#---------------|---------|-----------
+data	|	37	|	35
+data	|	29	|	28
+data	|	27	|	29
+data	|	30	|	39
+data	|	51	|	33
+data	|	34	|	23
+data	|	41	|	30
+data	|	34	|	35
+data	|	39	|	34
+data	|	23	|	33
+data	|	36	|	25
+data	|	29	|	25
+data	|	36	|	32
+data	|	37	|	32
+data	|	38	|	32
+data	|	34	|	32
+data	|	43	|	32
+data	|	51	|	32
+data	|	34	|	20
+data	|	41	|	46
+data	|	38	|	44
+data	|	32	|	49
+data	|	32	|	44
+data	|	42	|	65
+data	|	35	|	70
+data	|	31	|	58
+data	|	43	|	48
+data	|	29	|	38
+data	|	28	|	42
+data	|	40	|	48
+data	|	38	|	53
+data	|	39	|	45
+data	|	33	|	32
+data	|	26	|	39
+data	|	53	|	34
+data	|	28	|	31
+data	|	34	|	27
+data	|	33	|	32
+data	|	33	|	30
+data	|	36	|	41
+data	|	36	|	42
+data	|	44	|	50
+data	|	39	|	28
+data	|	46	|	42
+data	|	29	|	29
+data	|	35	|	33
+data	|	41	|	35
+data	|	36	|	38
+data	|	39	|	32
+data	|	33	|	54
+data	|	46	|	37
+data	|	46	|	30
+data	|	23	|	38
+data	|	41	|	36
+data	|	38	|	45
+data	|	24	|	39
+data	|	23	|	34
+data	|	24	|	40
+data	|	43	|	28
+data	|	36	|	28
+data	|		|	26
+data	|		|	22
+data	|		|	34
+data	|		|	24
+data	|		|	36
+data	|		|	34
+data	|		|	23
+data	|		|	24
+data	|		|	32
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+data	|		|	
+
+

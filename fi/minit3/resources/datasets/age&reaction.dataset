@@ -1,0 +1,112 @@
+#
+# age&reaction 
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= x
+yaxisVariable	= y
+
+data_contents	| x 	  | y
+data_units	| age | cm
+data_range	|0..100  | 0..40
+#---------------|---------|-----------
+data	|	10	|	26.05
+data	|	10	|	28.34
+data	|	10	|	30.99
+data	|	10	|	27.91
+data	|	10	|	28.00
+data	|	10	|	27.31
+data	|	10	|	28.31
+data	|	10	|	29.06
+data	|	10	|	29.71
+data	|	10	|	29.81
+data	|	20	|	12.20
+data	|	20	|	18.37
+data	|	20	|	7.81
+data	|	20	|	14.20
+data	|	20	|	13.37
+data	|	20	|	4.81
+data	|	20	|	20.27
+data	|	20	|	6.00
+data	|	20	|	8.03
+data	|	20	|	9.09
+data	|	30	|	11.62
+data	|	30	|	18.59
+data	|	30	|	6.16
+data	|	30	|	12.15
+data	|	30	|	9.53
+data	|	30	|	15.73
+data	|	30	|	12.15
+data	|	30	|	10.63
+data	|	30	|	17.23
+data	|	30	|	18.98
+data	|	40	|	16.90
+data	|	40	|	11.18
+data	|	40	|	18.45
+data	|	40	|	16.10
+data	|	40	|	14.18
+data	|	40	|	17.85
+data	|	40	|	10.62
+data	|	40	|	20.66
+data	|	40	|	13.24
+data	|	40	|	14.38
+data	|	50	|	23.49
+data	|	50	|	16.07
+data	|	50	|	17.71
+data	|	50	|	14.09
+data	|	50	|	15.71
+data	|	50	|	19.13
+data	|	50	|	20.02
+data	|	50	|	22.44
+data	|	50	|	18.42
+data	|	50	|	16.89
+data	|	50	|	19.84
+data	|	50	|	19.42
+data	|	50	|	30.86
+data	|	60	|	19.73
+data	|	60	|	20.46
+data	|	60	|	20.27
+data	|	60	|	22.31
+data	|	60	|	25.09
+data	|	60	|	22.13
+data	|	60	|	26.51
+data	|	60	|	21.91
+data	|	60	|	26.96
+data	|	60	|	20.98
+data	|	60	|	23.56
+data	|	70	|	26.67
+data	|	70	|	23.98
+data	|	70	|	25.09
+data	|	70	|	27.98
+data	|	70	|	26.60
+data	|	70	|	26.30
+data	|	70	|	20.55
+data	|	70	|	24.60
+data	|	70	|	22.30
+data	|	70	|	20.42
+data	|	80	|	21.26
+data	|	80	|	22.62
+data	|	80	|	24.56
+data	|	80	|	25.80
+data	|	80	|	26.48
+data	|	80	|	26.48
+data	|	80	|	25.80
+data	|	80	|	27.48
+data	|	80	|	26.02
+data	|	80	|	23.30
+data	|	90	|	26.60
+data	|	90	|	27.59
+data	|	90	|	26.08
+data	|	90	|	27.14
+data	|	90	|	26.88
+data	|	90	|	28.63
+data	|	90	|	27.74
+data	|	90	|	26.14
+data	|	90	|	28.60
+data	|	90	|	27.44
+
+

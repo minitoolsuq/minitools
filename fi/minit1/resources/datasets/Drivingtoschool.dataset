@@ -1,0 +1,40 @@
+#
+#  Drivingtoschool
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= Highway
+yaxisVariable	= Local
+
+data_contents	| Highway	  | Local
+data_units		| minutes 	  | minutes
+data_range		| 10..50      | 10..50
+#---------------|-----------|-----------|-------------
+data		|	19	|	35
+data		|	23	|	31
+data		|	21	|	35
+data		|	37	|	32
+data		|	41	|	30
+data		|	20	|	33
+data		|	17	|	33
+data		|	39	|	34
+data		|	24	|	34
+data		|	19	|	33
+
+
+
+
+
+
+
+
+
+
+
+
+
+

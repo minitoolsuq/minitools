@@ -1,0 +1,20 @@
+#
+#  Vader-zoon
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= mother
+yaxisVariable	= son
+
+data_contents	| father 	  | mother 	| son
+data_units		| meter 	  | meter  	| meter
+data_range		| 0..2.5      | 0..2.5  | 0..2.5
+#---------------|-----------|-----------|-------------
+data			| 1.90  	|  1.85  	| 1.95     
+data			| 1.75  	|  1.60  	| 1.85     
+data			| 1.69  	|  1.92  	| 1.72     
+

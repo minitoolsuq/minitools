@@ -1,0 +1,29 @@
+#
+#  TruckStop
+#
+
+pictureType     = twovariable
+
+ImageName_hor	= popside.gif
+ImageName_vert	= pop.gif
+
+xaxisVariable	= trucks 
+yaxisVariable	= passenger cars
+
+data_contents	| trucks 	  | passenger cars
+data_units		| minutes 	  | minutes
+data_range		| 170..500      | 170..500
+#---------------|-----------|-----------|-------------
+data	|	270	|	180
+data	|	470	|	290
+data	|	230	|	345
+data	|	430	|	220
+data	|	255	|	305
+data	|	210	|	300
+data	|	415	|	250
+data	|	290	|	270
+data	|	370	|	200
+data	|	390	|	300
+data	|		|	
+
+
